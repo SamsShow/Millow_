@@ -1,4 +1,5 @@
 # Real Estate NFT DApp
+![Workflow](image.png)
 
 ## Technology Stack & Tools
 
